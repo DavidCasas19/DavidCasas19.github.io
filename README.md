@@ -1,11 +1,30 @@
+![image](https://user-images.githubusercontent.com/54973640/227142474-711e2dd6-a2e3-4e52-975d-e9204d521ff2.png)
+
+TECNOLÓGICO NACIONAL DE MÉXICO
+INSTITUTO TECNOLÓGICO DE TIJUANA
+
+SUBDIRECCIÓN ACADÉMICA
+DEPARTAMENTO DE SISTEMAS Y COMPUTACION
+SISTEMAS COMPUTACIONALES
+
+ALUMNO:
+CASAS BARRON DAVID #19210473
+
+
+
+
+
+TIJUANA B.C. 13 MARZO DE 2023
+
+
+
+
 # Servo
-Presentacion de Servo
 Un servomotor es un actuador rotativo o motor que permite un control preciso en términos de posición angular, aceleración y velocidad, capacidades que un motor normal no tiene. En definitiva, utiliza un motor normal y lo combina con un sensor para la retroalimentación de posición.
 
 # Cómo funciona un servomotor
 Los servomotores se controlan enviando un pulso eléctrico de ancho variable, o modulación de ancho de pulso (PWM), a través del cable de control. Hay un pulso mínimo, un pulso máximo y una frecuencia de repetición.
 
-![image](https://user-images.githubusercontent.com/54973640/227117066-8fa3dc97-6a95-4be8-98b3-3e9e99d81ec6.png)
 
 # Tipos de servomotores
 Los servos vienen en muchos tamaños y en tres tipos básicos: rotación posicional, rotación continua y lineal.
@@ -26,4 +45,8 @@ Servo lineal: Es similar al servomotor de rotación posicional descrito anterior
 - También se utilizan en la industria aeroespacial para mantener el fluido hidráulico en sus sistemas hidráulicos.
 - Se utilizan en muchos juguetes controlados por radio.
 - Se utilizan en dispositivos electrónicos como DVD y reproductores de discos para ampliar o reproducir las bandejas de discos.
-- También se utilizan en automóviles para mantener la velocidad de los vehículos.
+
+
+# Link del ejemplo
+https://wokwi.com/projects/359976462840792065
+
